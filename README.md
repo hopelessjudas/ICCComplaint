@@ -1,49 +1,78 @@
 # ICCComplaint
 
-They said the quiet part out loud: paint the border wall black so it gets hotter and hurts the people who touch it. That isn’t policy-by-accident; that’s pain as design. You don’t need a law degree to smell the rot. You need lungs, a conscience, and the simple refusal to normalize cruelty dressed up as “deterrence.”
+# Hopeless Judas — Field Tools for Accountability
 
-No, we can’t waltz into The Hague and “file a case.” The International Criminal Court doesn’t work like your local courthouse. But there is a lever we can pull: an Article 15 communication to the ICC Prosecutor. Think of it as a formal alarm bell. Anyone can ring it; citizen, journalist, medic, neighbor, stranger. It doesn’t guarantee action, but it puts the facts on the record in the right venue. And if enough of us ring that bell, clearly, cleanly, credibly; the sound carries.
+**This is not code. This is leverage.**  
+Templates, manifests, and one-page kits for people who are done screaming at the timeline and ready to put paper on power. Use it, fork it, rip it for parts. Make it louder.
 
-I built three documents you can use right now. They’re not fireworks; they’re tools. Cold, simple, effective.
+> **HJ Thesis:** Pain engineered into policy is a design choice. We document it. We name it. We press where it hurts.
 
-1) Article 15 Communication Template (DOCX).This is the spine. It lays out the allegation: that painting the border wall black to increase heat and inflict pain on a civilian population is an “other inhumane act” under Article 7(1)(k) of the Rome Statute, possibly persecution under 7(1)(h). It also explains why war crimes (Article 8) likely don’t fit (no armed conflict nexus). It frames jurisdiction the only honest way: the U.S. isn’t in the ICC, Mexico is—so ask the Prosecutor to evaluate cross-border elements (harm and coercive effects on the Mexico side). You fill in your details or leave them out and go anonymous; you attach whatever you’ve got. The template handles the structure so you don’t have to.
+---
 
-2) One-Page Cover Letter (DOCX).You staple this on top, metaphorically. It’s a tight summary in plain speech: what you’re sending, why it belongs before the Prosecutor, and a polite request for confidentiality for your personal info in any public filings. Crisp. Respectful. Unmistakable.
+## What’s in here
 
-3) Submission Checklist (DOCX).Because chaos loves excuses. The checklist is the nagging friend who makes sure you included your summary, attached the evidence, and actually used the ICC’s portal. It reminds you that a communication isn’t a lawsuit, it’s information routed to the right office, and that the Prosecutor decides what happens next.
+- **ICC Article 15 Kit (Border Wall “Paint It Black”)**
+  - `ICC_Article15_Communication_Border_Wall_Black_Paint_Template.docx`
+  - `Cover_Letter_to_OTP_Template.docx`
+  - `ICC_Article15_Submission_Checklist.docx`
+  - Purpose: a ready-to-fill packet to submit information to the International Criminal Court Prosecutor regarding the policy of painting the U.S.–Mexico border wall black to increase heat and inflict pain as deterrence. It’s a communication, not a lawsuit—but it leaves fingerprints in the right place.
 
-Let’s set expectations like adults. The ICC is slow. It’s political. It’s overworked. Sometimes it’s brilliant. Sometimes it’s asleep at the wheel. But a clean, repeatable, evidence-tethered communication is harder to ignore than a scream into social media’s void. This is about documentation and pressure, the boring kind that breaks stone.
+- **/assets** *(optional: add screenshots, citations, PDFs)*  
+- **/examples** *(optional: redacted sample submissions, de-identified)*
 
-How to Use the Kit (five minutes, then breathe)
+---
 
-Grab the files (links below).
+## Quickstart
 
-Open the Communication. Fill your name and contact or delete them and stay anonymous.
+1. **Download** the DOCX files (or grab the release ZIP).  
+2. **Fill** in only what you’re safe to share. Remove personal info if needed.  
+3. **Attach** any lawful evidence you have (public statements, local reporting, photos you took).  
+4. **Submit** via the ICC OTP portal. Then share the kit with someone else.
 
-Add anything you actually know: dates, places, photos you took, medical notes you have permission to share, quotes you heard. Keep it factual. Keep it boring. Boring is believable.
+> **Not legal advice.** This is a citizen tool, not counsel. If you have a lawyer, talk to them.
 
-The law bit is already written in normal language: Article 7 (crimes against humanity) is the hinge; Article 8 (war) is likely out; jurisdiction rides on Mexico being in the ICC and the cross-border nature of the harm. Don’t reinvent it, just don’t dilute it.
+---
 
-Paste your short summary into the Cover Letter, sign (or not), and run the Checklist so nothing gets lost.
+## Why this exists
 
-Submit through the ICC OTP portal. You can do it in English. You can do it from your kitchen table. You can do it today.
+Because “policy” that weaponizes heat against human skin isn’t governance—it’s cruelty with a purchase order. We don’t normalize it. We **document** it. We **pressure** it. We **persist**.
 
-What to Attach (truth travels on paper)
+---
 
-Screenshots of the public statements about painting it black. Local news pieces. Photos of the wall where you live. Heat advisories. If you’re a clinician or aid worker with lawful authority to share de-identified notes, include them. If you have nothing but the public record, that’s fine, the point is clarity and volume, not poetry.
+## Safety Notes
 
-Safety & Dignity
+- If you’re vulnerable, submit **anonymously**.  
+- Strip metadata from images.  
+- Share only what you have the right to share.  
+- Don’t be brave for sport. Be effective.
 
-If you’re vulnerable, do not put your address in there. Submit anonymously. Strip metadata from images. Ask yourself, “If this was read on a hostile livestream tomorrow, would I be okay?” Don’t be brave for sport; be careful and effective.
+---
 
-What This Is Not
+## Contributing
 
-This is not a magic bullet. This is not vengeance. This is administrative conscience, a paper trail with teeth. It says: We saw you design pain. We wrote it down. We sent it to the place that keeps score when nations forget how to be human. One document is a drop. A thousand documents are weather.
+Got edits, new sources, or a new kit (FOIA packs, city council scripts, watchdog briefs)?
+- Fork → PR with a clear summary.
+- Keep tone **plain and usable**; save the poetry for the banner.
+- Cite sources; prefer primary docs where possible.
 
-Why Bother?
+Issues/PR labels:
+- `needs-citation` – add/upgrade sources  
+- `jurisdiction` – cross-border or venue questions  
+- `language` – clarity/translation improvements
 
-Because a government that engineers heat into a surface to burn desperate hands has forgotten the first duty of power: to protect the vulnerable from cruelty, not to innovate new ways to deliver it. I don’t care how you dress it up; “deterrence,” “efficiency,” “border management.” When you use a body’s skin as a battlefield, you’ve left policy and entered something darker. The law has words for that. Use them.
+---
 
-I am angry. Good. Anger is a solvent; it strips off the euphemisms. But anger that lives only in your chest goes sour. Put it to work. Five minutes. Fill the template. Hit submit. Then share the files with the next person who is ready to stop screaming and start documenting.
+## License
 
-This isn’t the whole fight. It’s a pressure point. A lever. A way to say, on the record and with a straight face: we saw the cruelty, and we refused to call it normal.
+**CC BY 4.0** by default (attribution required; remix allowed).  
+If you need **CC0** (public domain) for maximum spread, open an issue and we’ll mark specific files accordingly.
+
+---
+
+## Credits
+
+Authored and curated by **Hopeless Judas**.  
+If this repo helps you push back, pay it forward: mirror it, localize it, teach someone else to use it.
+
+**We choose us.**
+
