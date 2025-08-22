@@ -1,9 +1,5 @@
 # ICCComplaint
 
-Just want the files? Click here and download the .zip file from my GitHub.
-
-https://github.com/johnathanhales/ICCComplaint 
-
 They said the quiet part out loud: paint the border wall black so it gets hotter and hurts the people who touch it. That isn’t policy-by-accident; that’s pain as design. You don’t need a law degree to smell the rot. You need lungs, a conscience, and the simple refusal to normalize cruelty dressed up as “deterrence.”
 
 No, we can’t waltz into The Hague and “file a case.” The International Criminal Court doesn’t work like your local courthouse. But there is a lever we can pull: an Article 15 communication to the ICC Prosecutor. Think of it as a formal alarm bell. Anyone can ring it; citizen, journalist, medic, neighbor, stranger. It doesn’t guarantee action, but it puts the facts on the record in the right venue. And if enough of us ring that bell, clearly, cleanly, credibly; the sound carries.
